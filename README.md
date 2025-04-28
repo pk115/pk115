@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TheUncleDev
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)i'm is TheUncleDev
 ===================================================================================================================================
 
 Founder & CEO at \[Trinity P Service Co.,Ltd.\] Assistant IT Manager | Software Development Lead | Full-stack Developer | Tech Lead
