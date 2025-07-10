@@ -42,5 +42,3 @@ Founder & CEO at \[Trinity P Service Co.,Ltd.\] Assistant IT Manager | Software 
     </picture>
   </a>
 </p>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="118" height="42" fill="currentColor" alt="TikTok" class="css-p1s60o-StyledLogoLight emhaa7k1"><use xlink:href="#logo-dark-c4561408"></use></svg>
